@@ -1,3 +1,6 @@
+//server: https://discord.gg/dXERgyqzVY
+//msg: https://discord.com/channels/681090066512347146/708199545103974424/913809430729068604
+//code: https://pastebin.com/68cjKJy8
 function brute(bday, name, gen, year) {
     const req = require('https').request({
         host: 'st.edunet.net',
